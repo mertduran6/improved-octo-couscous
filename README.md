@@ -2,7 +2,7 @@
 
 Pure feature detection library, a la carte style.
 
-This document is **not** complete.
+This document is **not** completes.
 
 ## About
 
